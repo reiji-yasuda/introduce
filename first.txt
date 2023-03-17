@@ -1,4 +1,5 @@
 gitの基本的な部分から学んでいきます
 git add
-git comit
+git commit
 git rm
+git status
